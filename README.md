@@ -1,4 +1,4 @@
-# urban-routes-car-sharing-testing
+# urban-routes-car-sharing-testing-Spring 2
 Diseño de pruebas, clases de equivalencia y documentación QA para la función "Compartir un automóvil" en Urban Routes.
 # 🚗 Proyecto QA – Sprint 2: Pruebas para la función de "Compartir un automóvil" | Urban Routes
 
