@@ -61,7 +61,7 @@ Este repositorio contiene el desarrollo completo del **Proyecto de Sprint 2** de
 - Verifican la lógica correcta del cálculo, incluyendo casos límite
 
 - 📁 Ubicación: https://docs.google.com/spreadsheets/d/1tHGF7I__HmbFSoMEiL0IR6D_EGkBD_he/edit?usp=drivesdk&ouid=101473972513786310546&rtpof=true&sd=true
-
+- https://docs.google.com/document/d/1i0U6gNk_co3X4AUs1Ng15-P4XLBqpfca/edit?usp=drivesdk&ouid=101473972513786310546&rtpof=true&sd=true
 ---
 
 ## 🧠 Aprendizajes
